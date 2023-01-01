@@ -1,2 +1,2 @@
 # Aprendendo-a-usar-C#
-estou tentando aprender a usar C# para desenvolver alguns projetos
+Olá, me chamo Alisonn e estou aprendendo usar C# para desenvolver alguns projetos
