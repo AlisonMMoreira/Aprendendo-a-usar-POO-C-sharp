@@ -1,2 +1,2 @@
-# Aprendendo-a-usar-POO-C#
-Olá, me chamo Alison e estou aprendendo usar C# para desenvolver alguns projetos
+# Abstraçao
+É a habilidade que você tem que desenvolver para que você consiga construir classes para seus projetos. De modo geral, a abstração pode ser entendida como simplicação.
