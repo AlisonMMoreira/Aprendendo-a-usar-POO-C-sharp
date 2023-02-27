@@ -1,2 +1,2 @@
-# Abstraçao
+# Abstração
 É a habilidade que você tem que desenvolver para que você consiga construir classes para seus projetos. De modo geral, a abstração pode ser entendida como simplicação. É baseada em aspectos essenciais de um contexto qualquer. Além de observar a realidade e dela abstrair entidades, ações e características consideradas essenciais para uma aplicação. Com a abstração em mãos você consegue olhar para uma entidade e extrair dela apenas as informações úteis.
